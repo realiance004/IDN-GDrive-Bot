@@ -1,7 +1,7 @@
 {
-  "name": "T2GDrive",
+  "name": "t4ugdrive_bot",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
-  "repository": "https://github.com/realiance004/IDN-GDrive-Bot",
+  "repository": "https://github.com/realiance004/t4ugdrive",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
